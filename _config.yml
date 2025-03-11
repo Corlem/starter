@@ -1,11 +1,11 @@
-title: Website Title
+title: Starting Website
 
 description: >
-  Website Description
+  This is my first use of github.
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Ron
+  email: ron.corlem@gmail.com
 
 nav_pages:
   - about.md
